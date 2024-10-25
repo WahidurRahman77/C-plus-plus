@@ -13,7 +13,7 @@ int main()
         cin >> s >> t;
         
         int lcp = 0;
-        while (lcp < s.length() && lcp < t.length() && s[lcp] == t[lcp]) 
+        while (lcp < s.length() && lcp <  t.length() && s[lcp] == t[lcp]) 
         {
             lcp++;
         }
