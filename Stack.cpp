@@ -7,7 +7,7 @@ int STACK[MAX], top = -1;
 
 int main()
 {
-    int option, value;
+    int option,  value;
 
     while (true)
     {
