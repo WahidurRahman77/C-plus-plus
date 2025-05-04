@@ -22,6 +22,7 @@ int main()
         int option2 = s.length() + t.length();
         
         int result = min(option1, option2);
+        
         cout << result << endl;
     }
 
