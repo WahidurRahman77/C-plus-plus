@@ -15,7 +15,7 @@ int main()
         {
             if (word3 == "carnivoro") 
             {
-                cout << "aguia" << endl;
+                cout << "aguia" <<  endl;
             } 
             else if (word3 == "onivoro") 
             {
