@@ -16,6 +16,7 @@ int main()
         {
             cout << x << "\n";
         }
+            
         else
         {
             int c = 9;
@@ -31,4 +32,5 @@ int main()
     }
 
     return 0;
+
 }
